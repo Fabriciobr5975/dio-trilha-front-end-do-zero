@@ -1,5 +1,8 @@
 ## Curso Trilha Front End do Zero
-Repositório criado para os códigos dos curso proporcionado pela <a href="https://www.dio.me/">DIO</a> (Digital Innovation One)
+<p align="justify">Repositório criado para armazenar os códigos do curso <strong>"Ri Happy - Front-end do Zero"</strong> proporcionado pela DIO (Digital Innovation One) juntamente com a Ri Happy. 
+
+## Objetivo do Curso
+<p align="justify">Esse curso tem o objetivo de passar os principais conceitos e tecnologias para a programação front-end. O Curso conta com 75 Horas, sendo sepados por 5 módulos, cada módulo tem um objetivo, no primeiro somos apresentados ao mundo do front-end, no segundo começamos a mexer no HTML e no CSS, no terceiro e quarto módulo aprendemos o JavaScript e no último temos mais alguns projetos que fazemos para aumentar a nossa base de conhecimentos</p>
 
 ## Linguagens Usadas
 <div align="center" > <a href="https://logospng.org" target="_blank"><img src="https://logospng.org/download/html-5/logo-html-5-256.png" alt="Logo do HTML" width="90" height="90" /></a>
